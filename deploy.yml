@@ -49,4 +49,3 @@
       systemd:
         name: greeting.service
         state: restarted
-=
